@@ -1,5 +1,4 @@
-flask-lesscss
-=============
+## flask-lesscss
 
 A small Flask extension that makes it easy to use LessCSS with your Flask
 application.
